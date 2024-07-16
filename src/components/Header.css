@@ -1,0 +1,43 @@
+.header {
+    background-color: black;
+    color: aliceblue;   
+}
+
+.container {
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+
+
+}
+
+.navlink {
+    display: flex;
+   gap:40px;
+font-size: 16px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.head {
+    display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+
+.number__head {
+display: flex;
+padding: 20px;
+width: 198px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 16px;
+
+
+    
+}

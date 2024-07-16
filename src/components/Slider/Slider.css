@@ -1,0 +1,9 @@
+.swiper-slide > img {
+    margin: 0 auto;
+}
+
+.slider {
+    margin: 0 auto;
+    max-width: 50rem;
+    margin-top: 3rem;
+}

@@ -1,0 +1,64 @@
+.prod-img_sing{
+position: absolute;
+top: 500px;
+right: 950px;
+}
+
+.product_inner_sing{
+
+}
+
+.product_body_sing{
+
+}
+
+.product__title_sing{
+    position: absolute;
+    top: 480px;
+    right: 515px;
+    font-size: 50px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} 
+    
+.bio_sing{
+
+}
+
+.product_bio_sing{
+    position: absolute;
+    top: 550px;
+    right: 450px;
+    font-size: 20px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.productdes{
+    position: absolute;
+    top: 610px;
+    right: 415px;
+    font-size: 17px ;
+    width: 500px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.btn_sing{
+    position: absolute;
+    top: 950px;
+    right: 450px;
+
+}
+
+.button_sing {
+ color: white;
+ background: black;
+ border: 1px solid;
+ border-radius: 10px;
+ width: 200px;
+ height: 50px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-size: 20px;
+}

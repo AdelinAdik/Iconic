@@ -1,0 +1,68 @@
+
+.section__applic {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    background: url(../../assets/градиент.png) no-repeat ;
+}
+
+.aplic__blok {
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+display: grid;
+}
+
+.title__aplic {
+font-size: 25px;
+justify-content: center;
+display: flex;
+align-items: center;
+}
+
+.aplic__text {
+font-size: 15px;
+display: flex;
+justify-content: center;
+text-align: center;
+width: 500px;
+padding: 20px ;
+}
+
+.input {
+    padding:0 600px;
+ gap: 14px;
+justify-content: center;
+align-items: center;
+display: grid;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+button {
+   
+}
+
+.button__aplic {
+    font-size: 20px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 1px solid;
+   width: 200px;
+    margin: 10px;
+   padding: 0 20px 0;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.button__aplic:hover {
+    background: black;
+    color: white;
+
+}

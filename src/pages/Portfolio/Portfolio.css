@@ -1,0 +1,278 @@
+.container {
+
+}
+
+.bannerport {
+
+}
+
+.banner_img_portfolio {
+
+}
+
+.banner__minititle_portfolio{
+    color: white;
+    position: absolute;
+    left: 1000px;
+    top: 400px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.banner_title_portfolio{
+    color: white;
+    position: absolute;
+    left: 1000px;
+    top: 460px;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.banner_title_portfolio p {
+font-weight: bold;
+width: 700px;
+height: 80px;
+}
+
+.banner_text_portfolio{
+    color: white;
+    position: absolute;
+    left: 1000px;
+    top: 700px;
+    font-size: 20px;
+}
+
+.banner_line_portfolio {
+    position: absolute;
+    left: 1003px;
+    top: 450px;
+    font-size: 40px;
+
+}
+
+
+.blok2_port{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 170px 0;
+  width: 1300px;
+  height: 827.16px;
+
+}
+
+.bag_blok3_port{
+ background: #E5D8D8 ;
+
+}
+
+
+.blok3_port{
+    display: flex;
+    justify-content: space-between;
+    margin: 170px 0;
+}
+.blok3_port_text{
+display: flex;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 35px;
+border: solid;
+padding: 60px;
+
+}
+
+.border-blok3{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin: 30px;
+    padding:  0;
+}
+
+.btn_blok3 {
+    position: relative;
+    top: 600px;
+    right: 750px;
+    }
+    
+
+.blok3_button{
+
+    border: 1px solid;
+    border-radius: 10px;
+    background: black;
+    color: white;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 23px;
+    width: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+
+.blok3_img_port{
+display: flex;
+justify-content: left;
+ width: 800px;
+ height: 700px; 
+margin: 20px 0;
+}
+
+
+.ideaa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 170px;
+    height: 350px;
+}
+
+.blok4__port{
+    margin: 170px 0;
+display: flex;
+
+
+}
+
+.blok4_alltext_port{
+    display: grid;
+}
+
+.blok4__title__port{
+font-size: 55px;
+width: 900px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.blok4__text__port{
+font-size: 23px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+display: flex;
+flex-direction: column;
+gap: 40px;
+}
+
+.blok4_img_port{
+
+}
+
+.blok5_port{
+    margin: 170px 0 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blok5_title_port{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blok5_text_port{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+    width: 500px;
+    font-size: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.blok5_alltext_port{
+display: grid;
+}
+
+
+.blok5__store__port{
+ 
+    display: flex;
+   justify-content: center;
+    gap: 14px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.product-name {
+display: flex;
+justify-content: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: white;
+
+}
+
+.bio{
+ display: flex;
+ justify-content: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+max-width: 200px;
+height: 30px;
+   text-align: center;
+   color: white;
+   font-size: 12px;
+   align-items: center;
+}
+
+.product-img {
+    height: 350px;
+ width: 300px;
+margin: 0;
+padding: 0;
+
+}
+
+.product-img:hover {
+    box-shadow:0 0 15px #dfaf79;
+    border:1px solid #c98c53;
+}
+
+.product {
+    border: 0px;
+    border-radius: 15px;
+    padding: 10px;
+  width: 300px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(58, 52, 52);
+}
+
+.product-bio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.error {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 40px;
+}
+
+.error_text {
+    color: rgb(14, 12, 12);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+
+}
+
+.error_img {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
