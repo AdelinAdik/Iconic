@@ -9,7 +9,7 @@ import { store } from '../../data/store'
 import { Link } from "react-router-dom"
 import React, { useState } from 'react';
 import { Input } from '@mui/material';
-import error from '../../data/images/browser.png'
+
 import { NavLink } from 'react-router-dom'
 
 
@@ -136,7 +136,7 @@ const filteredProducts = store.filter(product => {
                                     <div className="error">
                                 
                                     <h1 className="error_text">УПС, МЫ НЕ НАШЛИ ДАННУЮ МОДЕЛЬ</h1>
-                                    <img src={error} alt="error" className="error_img"/>
+                                    
                                     </div>
                                 )
                             }
